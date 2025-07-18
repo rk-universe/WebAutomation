@@ -7,6 +7,9 @@ Here’s a sample **description** you can use for your Docker image `rahulkumawa
 This Docker image powers a **Streamlit web application** that automates browser navigation and interaction using a large language model (LLM). It connects to a Chrome browser (running in **remote debugging mode**) and makes decisions based on the page's HTML content — guided by user prompts.
 
 ---
+## Demo Videos
+https://drive.google.com/file/d/1joNQB8rqH4cvLmUKHECn4ch8Km8dhyUw/view?usp=sharing
+https://drive.google.com/file/d/1NiId-IrKFBwNn1iAZY17D1X7blQldd3U/view?usp=sharing
 
 ### ✅ Features
 
